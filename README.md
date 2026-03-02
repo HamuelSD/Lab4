@@ -8,7 +8,7 @@ When designing my tests, I used a decision table. There were a lot (all but 5) o
 
 * **[Test Design & TCIs](https://docs.google.com/spreadsheets/d/1x9wTaRSZgseRveC4Q_mWc6YUHHjoWI0VoN4qfouN0d8/edit?usp=sharing)**
 
-## Implementation
+## Part 2: Implementation
 The package structure follows `com.samuel.lab4` and contains both the provided interfaces/exceptions and the implemented test class.
 
 **Test Implementation:**
