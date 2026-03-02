@@ -11,9 +11,8 @@ When designing my tests, I used a decision table. There were a lot (all but 5) o
 ## Implementation
 The package structure follows `com.samuel.lab4` and contains both the provided interfaces/exceptions and the implemented test class.
 
-**Test Suite:**
-* `src/test/java/com/samuel/lab4/LibraryServiceTest.java`
-
+**Test Implementation:**
+* [src/test/java/com/samuel/lab4/LibraryServiceTest.java](src/test/java/com/samuel/lab4/LibraryServiceTest.java)
 > **Note:** My tests are all implemented manually, but all work great and pass JaCoCo with 100% coverage. 
 
 Below is the generated JaCoCo Code Coverage report:
